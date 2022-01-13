@@ -5,3 +5,9 @@
 - Este teste visa testar sua lógica de programação, conhecimentos básicos em HTML, CSS e PHP, bem como analisaremos a organização e limpeza de seu código.
 - Caso queira inserir comentários explicando o seu código, fique a vontade.
 - Após o término do seu trabalho, crie um repositório Git para seu projeto e publique-o neste repositório remoto.
+
+---
+
+### EXEMPLO
+
+![this is an image](/triangle-challenge.png)
